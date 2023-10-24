@@ -151,6 +151,14 @@ p {
 	color: #1E4568;
 }
 
+.special-jon3 {
+
+}
+
+.special-jon3:hover {
+	color: #013056;
+}
+
 .btn-success:focus {
   background-color: #000;
   border-color: transparent;
