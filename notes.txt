@@ -1,0 +1,12 @@
+blue #013056
+lightblue #1E4568
+gold #FEC916
+darkgold #DCB43E
+
+
+
+
+
+font awesome icons
+
+flask
