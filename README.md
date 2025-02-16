@@ -1,3 +1,3 @@
 # namangalab
  
-https://0n11san.github.io/namangalab/
+https://jenamanga.github.io/namangalab/
